@@ -1,0 +1,6 @@
+wikipedia
+transformers
+tf-keras
+pandas
+matplotlib
+scikit-learn

@@ -1,0 +1,20 @@
+{'promt': 'handlung, Berlin 1885 (Digitalisat). 
+Cécile. Roman. Verlag Dominik, Berlin 1887 (online). 
+Irrungen, Wirrungen. Berliner Roman. Verlag von F. W. Steffens, Leipzig 1888 (Digitalisat). 
+Fünf Schlösser. Altes und Neues aus Mark Brandenburg. J. G. Cotta'sche Buchhandlung, Stuttgart 1889 (Digitalisat). 
+Stine. Berliner Sitten-Roman. Verlag F. Fontane & Co., Berlin 1890 (online). 
+Quitt. Verlag Wilhelm Hertz, Berlin 1891 (online). 
+Unwiederbringlich. Verlag Wilhelm Hertz, Berlin 1892 (online). 
+Frau Jenny Treibel oder „Wo sich Herz zum Herzen find’t.“ Roman. Verlag F. Fontane & Co., Berlin 1893 (Digitalisat Ausgabe 1915). 
+Meine Kinderjahre. Autobiographischer Roman. Verlag F. Fontane & Co., Berlin 1894 (Digitalisat). 
+Effi Briest. Roman. Verlag F. Fontane & Co., Berlin 1896 (Digitalisat). 
+Die Poggenpuhls. Roman. Verlag F. Fontane & Co., Berlin 1896 (online).  Digitalisierung: Zentral- und Landesbibliothek Berlin, 2020. URN urn:nbn:de:kobv:109-1-15423623
+Von Zwanzig bis Dreißig. Autobiogra', 'response': '{"date": "1893"}'}
+{'promt': 'pt hinterließ er Lebenserinnerungen, die bisher nur zu einem geringen Teil veröffentlicht wurden, durchaus aber seine literarischen Fähigkeiten bestätigen. Als literarische Nachwirkung hatte sein Vater seine Züge den Figuren des Baron Innstetten in Effi Briest und des Wendelin von Poggenpuhl in den Poggenpuhls verliehen. Seine starke äußerliche Ähnlichkeit mit seinem Vater führte dazu, dass er den Bildhauern Max Wiese für das Fontane-Denkmal in Neuruppin und Max Klein für das Fontane-Denkmal im Berliner Tiergarten Modell stand.
+Nachdem die vom Vater testamentarisch eingesetzte Nachlasskommission unwirksam geblieben war, übernahm er ab 1919 gemeinsam mit seinem Bruder, dem Verlagsbuchhändler Friedrich Fontane, die uneingeschränkte Verantwortung für die Pflege und Edition der literarischen Hinterlassenschaft des Vaters. Nach Ablauf der Schutzfrist 1928 konnten beide Brüder in den folgenden Krisenjahren die erforderlichen Mittel für die Unterhaltung des Archivs nicht mehr aufbringen und b', 'response': '{"date": "NA"}'}
+{'promt': 'Frau Jenny Treibel oder „Wo sich Herz zum Herzen find’t“ ist ein Roman Theodor Fontanes. Von Januar bis April 1892 in der Deutschen Rundschau vorabgedruckt, Ende 1892 (mit der Jahreszahl 1893) als Buch ausgeliefert, gewann der Roman sehr schnell die Gunst von Publikum und Kritik, die er bis heute bewahrt hat. „Das Buch, das als der witzigste Roman Fontanes gilt, soll nach den Worten des Autors ´das Hohle, Phrasenhafte, Lügnerische des Bourgeoisstandpunktes […] zeigen´.“ Halb ironisch wird dem Leser e', 'response': '{"date": "1892"}'}
+{'promt': 'Corinna Schmidt ist ein Spielfilm der DEFA von Artur Pohl aus dem Jahr 1951, frei nach dem Roman Frau Jenny Treibel von Theodor Fontane aus dem Jahr 1892.
+
+
+== Handlung ==
+Im Jahr 1878 fährt Frau Kommerzienrätin Jenny Treibel mit einer Kutsche durch die Straßen Berlins zur Professorentochter Corinna Schmidt, um diese zu einer Gesellschaft einzuladen. Der Weg führt sie durch mehrere arbeitslose Handwerker, die auf die neueste Ausgabe mit den Stellenanzeigen warten, vorbei an einem Geschäft für Kolonialwaren, das ihren Eltern gehörte und in dem sie ihre Jugend verbrachte, bis sie von dem reichen F', 'response': '{"date": "1892"}'}
